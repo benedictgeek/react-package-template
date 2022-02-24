@@ -1,7 +1,9 @@
 {
   "name": "project-name",
   "keywords": [],
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "license": "MIT",
   "version": "0.0.0",
   "main": "dist/index.js",
